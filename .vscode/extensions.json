@@ -1,0 +1,28 @@
+{
+  "recommendations": [
+    // themes & icons
+    "rocketseat.theme-omni",
+    "file-icons.file-icons",
+    "antfu.icons-carbon",
+
+    // life savers!
+    "dsznajder.es7-react-js-snippets",
+    "dbaeumer.vscode-eslint",
+    "bradlc.vscode-tailwindcss",
+    "formulahendry.auto-rename-tag",
+    "usernamehw.errorlens",
+    "styled-components.vscode-styled-components",
+    "streetsidesoftware.code-spell-checker",
+
+    // up to you
+    "amodio.tsl-problem-matcher",
+    "eamodio.gitlens",
+    "editorconfig.editorconfig",
+    "esbenp.prettier-vscode",
+    "coenraads.bracket-pair-colorizer",
+    "naumovs.color-highlight",
+    "WakaTime.vscode-wakatime",
+    "pranaygp.vscode-css-peek",
+    "znck.grammarly"
+  ]
+}

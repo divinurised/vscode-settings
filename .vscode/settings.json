@@ -1,0 +1,212 @@
+{
+	"editor.fontFamily": "Fira Code, JetBrains Mono, Input Mono, monospace",
+	"editor.fontLigatures": true,
+	"editor.fontWeight": "400",
+	"editor.fontSize": 14,
+	"editor.glyphMargin": false,
+	"editor.insertSpaces": true,
+	"editor.rulers": [80, 120],
+	"editor.lineHeight": 24,
+	"editor.tabSize": 2,
+	"editor.mouseWheelZoom": true,
+	"editor.cursorSmoothCaretAnimation": true,
+	"editor.find.addExtraSpaceOnTop": false,
+	"editor.unicodeHighlight.invisibleCharacters": false,
+	"editor.guides.bracketPairs": "active",
+	"editor.renderLineHighlight": "gutter",
+	"editor.inlineSuggest.enabled": true,
+	"editor.renderWhitespace": "none",
+	"editor.detectIndentation": true,
+	"editor.minimap.enabled": false,
+	"prettier.useTabs": true,
+	"editor.formatOnSave": true,
+	"editor.snippetSuggestions": "inline",
+	"editor.codeActionsOnSave": {
+		"source.fixAll.eslint": true,
+		"source.organizeImports": true
+	},
+	"editor.wordBasedSuggestions": true,
+	"editor.quickSuggestions": {
+		"other": true,
+		"comments": true,
+		"strings": true
+	},
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"diffEditor.wordWrap": "on",
+	"editor.wordWrap": "on",
+	"editor.unicodeHighlight.includeStrings": false,
+	"diffEditor.ignoreTrimWhitespace": false,
+	"editor.suggestSelection": "first",
+	"workbench.editor.highlightModifiedTabs": true,
+	"workbench.editor.limit.perEditorGroup": true,
+	"workbench.productIconTheme": "icons-carbon",
+	"workbench.preferredDarkColorTheme": "Omni",
+	"workbench.tree.expandMode": "singleClick",
+	"workbench.editor.closeOnFileDelete": true,
+	"workbench.activityBar.visible": false, // toggle sidebar
+	"workbench.editor.limit.enabled": true,
+	"workbench.list.smoothScrolling": true,
+	"workbench.editor.limit.value": 5,
+	"workbench.startupEditor": "none",
+	"workbench.colorCustomizations": {
+		"[Name of the Current Theme you are using]": {
+			"titleBar.activeBackground": "#191622",
+			"titleBar.activeForeground": "#191622"
+		}
+	},
+	"extensions.autoUpdate": "onlyEnabledExtensions",
+	"extensions.ignoreRecommendations": true,
+	"files.eol": "\n",
+	"files.insertFinalNewline": true,
+	"files.simpleDialog.enable": true,
+	"git.autofetch": true,
+	"git.confirmSync": false,
+	"git.enableSmartCommit": true,
+	"git.untrackedChanges": "separate",
+	"explorer.compactFolders": false,
+	"window.dialogStyle": "custom",
+	"window.titleBarStyle": "custom",
+	"terminal.integrated.fontWeight": "300",
+	"terminal.integrated.persistentSessionReviveProcess": "never",
+	"terminal.integrated.tabs.enabled": true,
+	"javascript.updateImportsOnFileMove.enabled": "prompt",
+	"scm.diffDecorationsGutterWidth": 2,
+	"debug.onTaskErrors": "debugAnyway",
+
+	"explorer.confirmDragAndDrop": false,
+	"explorer.confirmDelete": false,
+	"search.exclude": {
+		"**/.git": true,
+		"**/.github": true,
+		"**/.nuxt": true,
+		"**/.output": true,
+		"**/.pnpm": true,
+		"**/.vscode": true,
+		"**/.yarn": true,
+		"**/bower_components": true,
+		"**/dist/**": true,
+		"**/logs": true,
+		"**/node_modules": true,
+		"**/out/**": true,
+		"**/package-lock.json": true,
+		"**/pnpm-lock.yaml": true,
+		"**/tmp": true,
+		"**/yarn.lock": true
+	},
+
+	"terminal.integrated.fontSize": 16,
+	"emmet.syntaxProfiles": {
+		"javascript": "jsx",
+		"xml": {
+			"attr_quotes": "single"
+		}
+	},
+	"emmet.showAbbreviationSuggestions": true,
+	"emmet.includeLanguages": {
+		"javascript": "javascriptreact"
+	},
+	"colorize.languages": ["javascript", "typescript", "json", "html", "css"],
+	"prettier.singleQuote": true,
+	"breadcrumbs.enabled": true,
+	"javascript.suggest.autoImports": true,
+	"bracketPairColorizer.depreciation-notice": false,
+	"terminal.integrated.defaultProfile.windows": "PowerShell",
+	"terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+	"terminal.integrated.profiles.windows": {
+		"PowerShell": {
+			"source": "PowerShell",
+			"icon": "terminal-powershell",
+			"path": ["C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"],
+			"args": ["-NoLogo"]
+		}
+	},
+	"security.workspace.trust.untrustedFiles": "open",
+	"workbench.statusBar.visible": false,
+	"material-icon-theme.folders.associations": {
+		"electron": "../../../../icons/folder-electron"
+	},
+	"material-icon-theme.files.associations": {
+		"*.electron.js": "../../icons/electron",
+		"electron.js": "../../icons/electron"
+	},
+	"window.zoomLevel": 0.5,
+	"json.schemas": [
+		{
+			"name": "vscode-expo-manifest",
+			"url": "file:///c%3A/Users/dxvia/AppData/Roaming/Code/User/globalStorage/bycedric.vscode-expo/manifest-44.0.0.json",
+			"fileMatch": [
+				"app.json",
+				"app.config.json"
+			]
+		}
+	],
+	"window.menuBarVisibility": "compact",
+	"gitlens.advanced.messages": {
+		"suppressCreatePullRequestPrompt": true
+	},
+	"typescript.updateImportsOnFileMove.enabled": "always",
+	"workbench.iconTheme": "file-icons",
+	"window.restoreFullscreen": true,
+	"workbench.colorTheme": "Omni",
+	"emmet.showSuggestionsAsSnippets": true,
+	"emmet.triggerExpansionOnTab": false,
+	"errorLens.enabledDiagnosticLevels": ["warning", "error"],
+	"errorLens.excludeBySource": ["cSpell", "Grammarly", "eslint"],
+	"eslint.codeAction.showDocumentation": {
+		"enable": true
+	},
+	"eslint.quiet": true,
+	"eslint.validate": ["javascript", "typescript", "javascriptreact", "typescriptreact", "html", "markdown"],
+	"cSpell.allowCompoundWords": true,
+	"cSpell.language": "en, en-US, pt-BR",
+	"css.lint.hexColorLength": "ignore",
+	"gitlens.codeLens.authors.enabled": false,
+	"gitlens.codeLens.enabled": false,
+	"gitlens.codeLens.recentChange.enabled": false,
+	"gitlens.menus": {
+		"editor": {
+			"blame": false,
+			"clipboard": true,
+			"compare": true,
+			"history": false,
+			"remote": false
+		},
+		"editorGroup": {
+			"blame": true,
+			"compare": false
+		},
+		"editorTab": {
+			"clipboard": true,
+			"compare": true,
+			"history": true,
+			"remote": true
+		},
+		"explorer": {
+			"clipboard": true,
+			"compare": true,
+			"history": true,
+			"remote": true
+		},
+		"scm": {
+			"authors": true
+		},
+		"scmGroup": {
+			"compare": true,
+			"openClose": true,
+			"stash": true
+		},
+		"scmGroupInline": {
+			"stash": true
+		},
+		"scmItem": {
+			"clipboard": true,
+			"compare": true,
+			"history": true,
+			"remote": false,
+			"stash": true
+		}
+	},
+	"prettier.enable": false, // I only use Prettier for manually formatting
+	"prettier.printWidth": 200,
+	"prettier.semi": false
+}
